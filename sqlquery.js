@@ -1,4 +1,5 @@
 var connection=require('./mysqlConnect.js')
+
 //查所有
 exports.sqlALL=function(){
 	var sqlAll='SELECT * FROM Users'
@@ -21,7 +22,7 @@ exports.addsql=function(obj){
 		valueArr.push(obj[key]);
 	}
 	keyStr=keyStr.substring(0,keyStr.length-1);
-	var  addSql = 'INSERT INTO Users('+keyStr+') VALUES(?,?)';
+	var  addSql = 'INSERT INTO userAddress('+keyStr+') VALUES(?,?,?,?,?,?,?)';
 	connection.query(addSql,valueArr,function (err, result) {
         if(err){
          console.log('[INSERT ERROR] - ',err.message);
@@ -34,6 +35,7 @@ exports.addsql=function(obj){
        console.log('-----------------------------------------------------------------\n\n');  
 });
 }
+
 exports.delete=function(id){
 	var delSql = 'DELETE FROM Users where id='+id;
 //删

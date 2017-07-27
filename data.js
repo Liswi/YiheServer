@@ -1,0 +1,274 @@
+exports.pot=[
+{
+	shop:"火焰虾煲(锦艺城店)",
+	name:"周萌",
+	phone:18661878998,
+	location:"郑州市中原区锦艺城B座3楼",
+	abstract:"一家很好吃的店",
+	rank:4,
+	img:"/static/shops/pot1.jpg",
+	imgArr:"['/static/shops/pot1.jpg','/static/shops/pot1.jpg','/static/shops/pot1.jpg','/static/shops/pot1.jpg']",
+	kind:'pot'
+},
+{
+	shop:"虾吃虾涮虾火锅(大商新玛特店)",
+	name:"周萌",
+	phone:18661878998,
+	location:"郑州市中原区锦艺城B座3楼",
+	abstract:"一家很好吃的店",
+	rank:4,
+	img:"/static/shops/pot2.jpg",
+	imgArr:["/static/shops/pot2.jpg","/static/shops/pot2.jpg","/static/shops/pot2.jpg","/static/shops/pot2.jpg"],
+	kind:'pot'
+},
+{
+	shop:"姐夫的小火锅",
+	name:"周萌",
+	phone:18661878998,
+	location:"郑州市中原区锦艺城B座3楼",
+	abstract:"一家很好吃的店",
+	rank:4,
+	img:"/static/shops/pot3.png",
+	imgArr:"['/static/shops/pot3.png','/static/shops/pot3.png','/static/shops/pot3.png','/static/shops/pot3.png']",
+	kind:'pot'
+},{
+	shop:"金厨坊馋嘴虾火锅店",
+	name:"周萌",
+	phone:18661878998,
+	location:"西大学城郑州大学内",
+	abstract:"一家很好吃的店",
+	rank:4,
+	img:"/static/shops/pot4.png",
+	imgArr:"['/static/shops/pot4.png','/static/shops/pot4.png','/static/shops/pot4.png','/static/shops/pot4.png']",
+	kind:'pot'
+},{
+	shop:"家家红特色火锅",
+	name:"周萌",
+	phone:18661878998,
+	location:"鑫源鑫都汇老店",
+	abstract:"一家很好吃的店",
+	rank:4,
+	img:"/static/shops/pot5.png",
+	imgArr:"['/static/shops/pot5.png','/static/shops/pot5.png','/static/shops/pot5.png','/static/shops/pot5.png']",
+	kind:'pot'
+},{
+	shop:"锅大侠火锅",
+	name:"周小萌",
+	phone:18661878998,
+	location:"火车站/二七广场旁",
+	abstract:"一家很好吃的店",
+	rank:4,
+	img:"/static/shops/pot6.png",
+	imgArr:"['/static/shops/pot6.png','/static/shops/pot6.png','/static/shops/pot6.png','/static/shops/pot6.png']",
+	kind:'pot'
+}
+]
+exports.buffet=[
+{
+	shop:"香锅里辣十元自助火锅",
+	name:"周小萌",
+	phone:18661878998,
+	location:"",
+	abstract:"一家很好吃的店",
+	rank:4.5,
+	img:"/static/shops/buffet6.png",
+	imgArr:"['/static/shops/buffet6.png','/static/shops/buffet6.png','/static/shops/buffet6.png','/static/shops/buffet6.png']",
+	kind:'buffet'
+},
+{
+	shop:"朝鲜坊烧烤涮自助餐厅",
+	name:"金喜善",
+	phone:18661878998,
+	location:"美食 金城国际广场",
+	abstract:"韩国烤肉,烧烤美食,石锅拌饭海鲜豆腐汤",
+	rank:3.5,
+	img:"/static/shops/buffet1.png",
+	imgArr:"['/static/shops/buffet1.png','/static/shops/buffet1.png','/static/shops/buffet1.png','/static/shops/buffet1.png']",
+	kind:'buffet'
+},
+{
+	shop:"尊尼自主牛排",
+	name:"李海亮",
+	phone:18661878998,
+	location:"美食 人民路百盛广场",
+	abstract:"一家很好吃的店",
+	rank:4,
+	img:"/static/shops/buffet2.png",
+	imgArr:"['/static/shops/buffet2.png','/static/shops/buffet2.png','/static/shops/buffet2.png','/static/shops/buffet2.png']",
+	kind:'buffet'
+},
+{
+	shop:"汉釜宫海鲜自助烧烤涮精品",
+	name:"周小萌",
+	phone:18661878998,
+	location:"锦艺城超市",
+	abstract:"一家很好吃的店",
+	rank:4,
+	img:"/static/shops/buffet3.png",
+	imgArr:"['/static/shops/buffet3.png','/static/shops/buffet3.png','/static/shops/buffet3.png','/static/shops/buffet3.png']",
+	kind:'buffet'
+},
+{
+	shop:"汉丽轩自助烤肉超市",
+	name:"周小萌",
+	phone:18661878998,
+	location:"升龙广场右侧第一家",
+	abstract:"一家很好吃的店",
+	rank:4,
+	img:"/static/shops/buffet4.png",
+	imgArr:"['/static/shops/buffet4.png','/static/shops/buffet4.png','/static/shops/buffet4.png','/static/shops/buffet4.png']",
+	kind:'buffet'
+},
+{
+	shop:"汉釜宫韩式自助烧烤",
+	name:"周小萌",
+	phone:18661878998,
+	location:"龙湖广场/升龙广场",
+	abstract:"一家很好吃的店",
+	rank:4,
+	img:"/static/shops/buffet5.png",
+	imgArr:"['/static/shops/buffet5.png','/static/shops/buffet5.png','/static/shops/buffet5.png','/static/shops/buffet5.png']",
+	kind:'buffet'
+},
+]
+exports.snack=[
+{
+	shop:"肚兜兜饼",
+	name:"周晓萌",
+	phone:18661878998,
+	location:"美食 二七万达",
+	abstract:"一种很奇怪的小吃,章鱼角肉夹馍",
+	rank:4.5,
+	img:"/static/shops/snack1.png",
+	imgArr:"['/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/buffet6.png']",
+	kind:'snack'
+},
+{
+	shop:"方燕烤猪蹄",
+	name:"周小萌",
+	phone:18661878998,
+	location:"火车站/二七广场",
+	abstract:"美食,安徽名吃",
+	rank:4.5,
+	img:"/static/shops/snack2.png",
+	imgArr:"['/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/buffet6.png']",
+	kind:'snack'
+},
+{
+	shop:"先生的蜜汁排骨",
+	name:"周小萌",
+	phone:18661878998,
+	location:"锦艺城",
+	abstract:"",
+	rank:4.5,
+	img:"/static/shops/snack3.png",
+	imgArr:"['/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/buffet6.png']",
+	kind:'snack'
+},
+{
+	shop:"和米堂",
+	name:"王红凯",
+	phone:18661878998,
+	location:"",
+	abstract:"",
+	rank:4.5,
+	img:"/static/shops/snack4.png",
+	imgArr:"['/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/buffet6.png']",
+	kind:'snack'
+},
+{
+	shop:"胖墩儿&炒酸奶",
+	name:"周小萌",
+	phone:18661878998,
+	location:"",
+	abstract:"",
+	rank:4.5,
+	img:"/static/shops/snack5.png",
+	imgArr:"['/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/buffet6.png']",
+	kind:'snack'
+},{
+	shop:"大脸万博",
+	name:"周小萌",
+	phone:18661878998,
+	location:"",
+	abstract:"",
+	rank:4.5,
+	img:"/static/shops/snack6.png",
+	imgArr:"['/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/snack1.png','/static/shops/buffet6.png']",
+	kind:'snack'
+}
+]
+exports.hailanhome=[{
+	shop:"蓝鸥大卖场",
+	notice:"顶级程序猿制造工厂,高品质,低价格,保您满意",
+	name:"常敏义",
+	phone:"1101201199",
+	location:"河南省郑州市高新区莲花街55号威科姆科技B座",
+	abstract:"顶级程序猿制造工厂,高品质,低价格,保您满意",
+	rank:4.6,
+	img:"/static/oneShop/titlepic1.jpg",
+	imgArr:'["/static/oneShop/titlepic2.jpg","/static/oneShop/titlepic3.jpg","/static/oneShop/titlepic5.jpg","/static/oneShop/titlepic4.jpg"]',
+	kind:'hailanhome'
+	
+}]
+exports.goods=[{
+	goodsName:"程序员T恤",
+	price:198,
+	lastPrice:298,
+	sizeColor:'{"S":{"黑色":"10","白色":"20","灰色":"30"},"M":{"黑色":"12","白色":"22","灰色":"32"},"L":{"黑色":"13","白色":"23","灰色":"33"}}',
+	img:"/static/oneShop/boyshirt/goods_1_pic1.jpg",
+	imgArr:'["/static/oneShop/boyshirt/goods_1_pic1.jpg","/static/oneShop/boyshirt/goods_1_pic2.jpg","/static/oneShop/boyshirt/goods_1_pic3.jpg","/static/oneShop/boyshirt/goods_1_pic4.jpg",]',
+	abstract:"李宁短袖T恤男士2017新款运动生活系列夏季圆领针织运动服AHSM283",
+	sales:100,
+	shopid:"8",
+},{
+goodsName:"程序员内裤",
+	price:300,
+	lastPrice:498,
+	sizeColor:'{"S":{"红色":"10","白色":"20","灰色":"30"},"M":{"黑色":"12","白色":"22","灰色":"32"},"L":{"黑色":"13","白色":"23","灰色":"33"}}',
+	img:"/static/oneShop/boyshirt/goods_2_pic1.jpg",
+	imgArr:'["/static/oneShop/boyshirt/goods_2_pic1.jpg","/static/oneShop/boyshirt/goods_2_pic2.jpg","/static/oneShop/boyshirt/goods_2_pic3.jpg","/static/oneShop/boyshirt/goods_2_pic4.jpg",]',
+	abstract:"红豆男士内裤男纯棉裆棉质面料明筋中腰性感U凸大码男生平角裤头",
+	sales:120,
+	shopid:"8"
+	},{
+goodsName:"程序员正装",
+	price:100,
+	lastPrice:1999,
+	sizeColor:'{"S":{"黑色":"10","红色":"20","灰色":"30"},"M":{"黑色":"12","红色":"22","灰色":"32"},"L":{"黑色":"13","红色":"23","灰色":"33"}}',
+	img:"/static/oneShop/boyshirt/goods_3_pic1.jpg",
+	imgArr:'["/static/oneShop/boyshirt/goods_3_pic1.jpg","/static/oneShop/boyshirt/goods_3_pic2.jpg","/static/oneShop/boyshirt/goods_3_pic3.jpg","/static/oneShop/boyshirt/goods_3_pic4.jpg",]',
+	abstract:"西服套装男士三件套夏季韩版小西装商务职业正装新郎伴郎结婚礼服 ",
+	sales:300,
+	shopid:"8"
+	}]
+
+exports.address=[
+{
+	userNumber:18037972380,	
+	name:"李世伟",
+	phone:18037972380,
+	province:"河南省",
+	city:"洛阳市",
+	county:"西工区",
+	detail:"火车站附近"
+},
+{
+	userNumber:18037972380,	
+	name:"周晓萌",
+	phone:18536987522,
+	province:"河南省",
+	city:"郑州市",
+	county:"高新技术开发区",
+	detail:"莲花街55号蓝鸥科技"
+},
+{
+	userNumber:18037972380,	
+	name:"老王",
+	phone:18037972380,
+	province:"台湾省",
+	city:"台北市	",
+	county:"莲花区",
+	detail:"北城新区"
+}
+]
